@@ -1,4 +1,6 @@
-# HR Analytics Dashboard
+<h1 align="center">HR Analytics Dashboard</h1>
+
+![campaign-creators-gMsnXqILjp4-unsplash](https://github.com/CLizardi/hr_analytics_dashboards_powerbi_tableau_excel_sql/assets/52866379/0c631a21-fc87-456f-9366-d43c41053e0f)
 
 # Project Overview
 
