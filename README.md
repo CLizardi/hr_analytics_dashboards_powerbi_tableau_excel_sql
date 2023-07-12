@@ -26,4 +26,10 @@ Throughout this project, I gained hands-on experience with HR analytics and lear
 This project also enhanced my understanding of HR-related challenges and provided practical solutions for decision-making within the HR department.
 
 # Conclusion
-The HR Analytics Dashboards project has been an exciting journey in exploring the power of data analytics in the HR domain. By utilizing tools like Power BI, Tableau, Excel, and SQL, I have been able to develop insightful dashboards that can provide HR professionals with valuable information for effective decision-making.
+The HR Analytics Dashboards project has been an exciting journey in exploring the power of data analytics in the HR domain. By utilizing tools like Power BI, Tableau, Excel, and SQL, I have been able to develop insightful dashboards that can provide HR professionals with valuable information for effective decision-making. Listed Below are some images of the dashboard. Feel free to download the repository and interact!
+
+![powerbi_hr_dashboard](https://github.com/CLizardi/hr_analytics_dashboards_powerbi_tableau_excel_sql/assets/52866379/cf779f02-6292-427d-bb91-e8458922752d)
+![tableau_hr_dashboard](https://github.com/CLizardi/hr_analytics_dashboards_powerbi_tableau_excel_sql/assets/52866379/38e3babe-3ca5-468e-a5d3-acca9975060e)
+![excel_hr_dashboard](https://github.com/CLizardi/hr_analytics_dashboards_powerbi_tableau_excel_sql/assets/52866379/e6777124-b73e-4b3e-a3bb-bd8ddf46bf0c)
+![average_age_screenshot](https://github.com/CLizardi/hr_analytics_dashboards_powerbi_tableau_excel_sql/assets/52866379/37cac9f5-3e60-43b8-909b-7d60cebdf30f)
+![employee_count_screenshot](https://github.com/CLizardi/hr_analytics_dashboards_powerbi_tableau_excel_sql/assets/52866379/3c5aacd6-5759-402c-a131-c749e164472b)
